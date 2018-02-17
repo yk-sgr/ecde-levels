@@ -1,2 +1,3 @@
-# ecde-levels
-Dashboard for entwicklercommunity.de
+# Leveldashboard
+
+https://entwicklercommunity.de
